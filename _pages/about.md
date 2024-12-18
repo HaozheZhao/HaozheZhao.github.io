@@ -28,8 +28,8 @@ My research interests revolve around **Foundation Language Models**, **Multimoda
 * **Multimodal Integration**: Improving vision-language models through multimodal instruction tuning, alignment strategies, and reducing hallucinations.
 <!-- * **Efficiency & Scalability**: Exploring techniques like cross-lingual distillation and selective data training to achieve improved performance with reduced resources, particularly for low-resource languages and long-context understanding. -->
 
-**<font color="red">I am currently seeking Ph.D. positions for Fall 2025. If you know of any opportunities that align with my research interests, please feel free to reach out to me at <font color="blue">[📧]</font>. I would love to discuss potential collaborations or positions. Thank you!</font>**
-
+<!-- **<font color="red">I am currently seeking Ph.D. positions for Fall 2025. If you know of any opportunities that align with my research interests, please feel free to reach out to me at <font color="blue">[📧]</font>. I would love to discuss potential collaborations or positions. Thank you!</font>**
+ -->
 My research interest includes neural machine translation and computer vision. I have published 8 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=skIXywUAAAAJ'>google scholar citations <a href='https://scholar.google.com/citations?user=skIXywUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
