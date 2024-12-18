@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Haozhe Zhao"
-  avatar           : "images/logo.png"
+  avatar           : "images/logo.jpg"
   bio              : "CS Master Student @PKU"
   location         : "Beijing, China"
   employer         :
