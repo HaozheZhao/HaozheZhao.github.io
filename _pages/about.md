@@ -94,7 +94,7 @@ Liang Chen, **Haozhe Zhao**, Tianyu Liu, Shuai Bai, Junyang Lin, Chang Zhou, Bao
 **Haozhe Zhao**, Shuzheng Si, Liang Chen, Yichi Zhang, Maosong Sun, Mingjia Zhang, Baobao Chang
 
 [**[paper]**](https://arxiv.org/pdf/2411.14279) [**[code]**](https://github.com/HaozheZhao/LACING) 
-- The Twelfth International Conference on Learning Representations(ICLR), 2024.
+- Completed during an internship at UIUC under the supervision of Prof. Minjia Zhang.
 </div>
 </div>
 
