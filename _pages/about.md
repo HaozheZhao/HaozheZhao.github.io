@@ -38,18 +38,6 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/acl24-xot.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[MMICL: Empowering vision-language model with multi-modal in-context learning](https://arxiv.org/abs/2309.07915)
-
-**Haozhe Zhao**, Zefan Cai, Shuzheng Si, Xiaojian Ma, Kaikai An, Liang Chen, Zixuan Liu, Sheng Wang, Wenjuan Han, Baobao Chang
-
-[**[paper]**](https://arxiv.org/pdf/2309.0791) [**[code]**](https://github.com/HaozheZhao/MIC) 
-- The Twelfth International Conference on Learning Representations(ICLR), 2024.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/mmicl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -95,6 +83,18 @@ Liang Chen, **Haozhe Zhao**, Tianyu Liu, Shuai Bai, Junyang Lin, Chang Zhou, Bao
 
 [**[paper]**](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10478.pdf) [**[code]**](https://github.com/pkunlp-icler/FastV) 
 - The 18th European Conference on Computer Vision(ECCV), 2024, **Oral**.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/lacing.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Looking Beyond Text: Reducing Language bias in Large Vision-Language Models via Multimodal Dual-Attention and Soft-Image Guidance](https://arxiv.org/abs/2411.14279)
+
+**Haozhe Zhao**, Shuzheng Si, Liang Chen, Yichi Zhang, Maosong Sun, Mingjia Zhang, Baobao Chang
+
+[**[paper]**](https://arxiv.org/pdf/2411.14279) [**[code]**](https://github.com/HaozheZhao/LACING) 
+- The Twelfth International Conference on Learning Representations(ICLR), 2024.
 </div>
 </div>
 
