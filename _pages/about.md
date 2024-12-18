@@ -30,40 +30,83 @@ My research interests revolve around **Foundation Language Models**, **Multimoda
 
 **<font color="red">I am currently seeking Ph.D. positions for Fall 2025. If you know of any opportunities that align with my research interests, please feel free to reach out to me at <font color="blue">[📧]</font>. I would love to discuss potential collaborations or positions. Thank you!</font>**
 
-My research interest includes neural machine translation and computer vision. I have published several papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <a href='https://scholar.google.com/citations?user=skIXywUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interest includes neural machine translation and computer vision. I have published 8 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=skIXywUAAAAJ'>google scholar citations <a href='https://scholar.google.com/citations?user=skIXywUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09*: &nbsp;🎉🎉 Our paper, “UltraEdit: Instruction-based Fine-Grained Image Editing at Scale”, has been accepted by NeurIPS 2024!  
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/acl24-xot.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[MMICL: Empowering vision-language model with multi-modal in-context learning](https://arxiv.org/abs/2309.07915)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Haozhe Zhao**, Zefan Cai, Shuzheng Si, Xiaojian Ma, Kaikai An, Liang Chen, Zixuan Liu, Sheng Wang, Wenjuan Han, Baobao Chang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**[paper]**](https://arxiv.org/pdf/2309.0791) [**[code]**](https://github.com/HaozheZhao/MIC) 
+- The Twelfth International Conference on Learning Representations(ICLR), 2024.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/mmicl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 🎖 Honors and Awards
+[MMICL: Empowering vision-language model with multi-modal in-context learning](https://arxiv.org/abs/2309.07915)
+
+**Haozhe Zhao**, Zefan Cai, Shuzheng Si, Xiaojian Ma, Kaikai An, Liang Chen, Zixuan Liu, Sheng Wang, Wenjuan Han, Baobao Chang
+
+[**[paper]**](https://arxiv.org/pdf/2309.0791) [**[code]**](https://github.com/HaozheZhao/MIC) 
+- The Twelfth International Conference on Learning Representations(ICLR), 2024.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/UltraEdit.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[UltraEdit: Instruction-based Fine-Grained Image Editing at Scale](https://arxiv.org/abs/2407.05282)
+
+**Haozhe Zhao**, Xiaojian Ma, Liang Chen, Shuzheng Si, Rujie Wu, Kaikai An, Peiyu Yu, Minjia Zhang, Qing Li, Baobao Chang
+
+[**[paper]**](https://arxiv.org/pdf/2407.05282) [**[code]**](https://ultra-editing.github.io/) 
+- The Thirty-Eighth Annual Conference on Neural Information Processing Systems(NeurIPS), 2024.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2024</div><img src='images/alsace.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Mitigating Language-Level Performance Disparity in mPLMs via Teacher Language Selection and Cross-lingual Self-Distillation](https://aclanthology.org/2024.naacl-long.160/)
+
+**Haozhe Zhao**, Zefan Cai, Shuzheng Si, Liang Chen, Yufeng He, Kaikai An, Baobao Chang
+
+[**[paper]**](https://aclanthology.org/2024.naacl-long.160/) [**[code]**](https://github.com/HaozheZhao/ALSACE) 
+- 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics(NAACL), 2024.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024, Oral</div><img src='images/fastv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[An image is worth 1/2 tokens after layer 2: Plug-and-play inference acceleration for large vision-language models](https://arxiv.org/abs/2403.06764)
+
+Liang Chen, **Haozhe Zhao**, Tianyu Liu, Shuai Bai, Junyang Lin, Chang Zhou, Baobao Chang
+
+[**[paper]**](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10478.pdf) [**[code]**](https://github.com/pkunlp-icler/FastV) 
+- The 18th European Conference on Computer Vision(ECCV), 2024, **Oral**.
+</div>
+</div>
+
+<!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+ -->
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - 2025.06 (Expected)*, M.S. in Software Engineering, Peking University. 
+- *2018.09 - 2022.06*, Bachelor in Software Engineering, Tianjin University. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
+<!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+ -->
