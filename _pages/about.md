@@ -20,7 +20,8 @@ redirect_from:
 Hi, I am currently a graduate student in the Institute of Computational Linguistics at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/pku.png"> Peking University, advised by [Prof. Baobao Chang](https://scholar.google.com/citations?user=LaKNyhQAAAAJ). Before that, I earned my bachelor’s degree from <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/tju.png"> Tianjin University. I have had the privilege of collaborating with [Prof. Minjia Zhang](https://minjiazhang.github.io/) at the University of Illinois Urbana-Champaign and [Prof. Junjie Hu](https://junjiehu.github.io/) at the University of Wisconsin–Madison. I have also engaged in research projects supported by <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/Microsoft.png"> Microsoft Research Asia, gaining exposure to both academic and industrial AI research settings.
 
 I am fortunate to have collaborated with researchers at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/pku.png"> PKU, <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/uiuc.png"> UIUC, <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/wisc.png">Wisc, <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/thu.png"> THU, and <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/Microsoft.png"> Microsoft Research Asia.
-[**Resume**](<docs/Resume.pdf>)
+
+More information available in the 🔗 [**Resume**](<docs/Resume.pdf>)
 
 My research interests revolve around **Foundation Language Models**, **Multimodal Learning**, and **Data-centric AI**:
 
