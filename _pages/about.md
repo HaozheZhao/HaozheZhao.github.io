@@ -105,7 +105,8 @@ Liang Chen, **Haozhe Zhao**, Tianyu Liu, Shuai Bai, Junyang Lin, Chang Zhou, Bao
 
 [Next Token Prediction Towards Multimodal Intelligence: A Comprehensive Survey](https://arxiv.org/abs/2412.18619)
 
-Liang Chen*, Zekun Wang*, Shuhuai Ren*, Lei Li*, **Haozhe Zhao***, Yunshui Li*, Zefan Cai, Hongcheng Guo, Lei Zhang, Yizhe Xiong, Yichi Zhang, Ruoyu Wu, Qingxiu Dong, Ge Zhang, Jian Yang, Lingwei Meng, Shujie Hu, Yulong Chen, Junyang Lin, Shuai Bai, Andreas Vlachos, Xu Tan, Minjia Zhang, Wen Xiao, Aaron Yee, Tianyu Liu, Baobao Chang
+Liang Chen\*, Zekun Wang\*, Shuhuai Ren\*, Lei Li\*, **Haozhe Zhao**\*, Yunshui Li\*, Zefan Cai, Hongcheng Guo, Lei Zhang, Yizhe Xiong, Yichi Zhang, Ruoyu Wu, Qingxiu Dong, Ge Zhang, Jian Yang, Lingwei Meng, Shujie Hu, Yulong Chen, Junyang Lin, Shuai Bai, Andreas Vlachos, Xu Tan, Minjia Zhang, Wen Xiao, Aaron Yee, Tianyu Liu, Baobao Chang
+
 
 [**[paper]**](https://arxiv.org/abs/2412.18619) [**[code]**](https://github.com/LMM101/Awesome-Multimodal-Next-Token-Prediction) 
 - We investigate the emerging trend in multimodal intelligence: the paradigm of next-token prediction.
